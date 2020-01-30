@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\GERSON MORALEZ\Desktop\progra 1\Projec2\Source.cpp(83,36): warning C4244:  '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\GERSON MORALEZ\Desktop\progra 1\Projec2\Source.cpp(117,37): warning C4244:  '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\GERSON MORALEZ\Desktop\progra 1\Projec2\Source.cpp(61): error C1075:  "{": no se encontró ningún token coincidente
